@@ -1,4 +1,4 @@
-![](./009bd3928995fabdef657473f60e4a92.jpg)
+![](./scale_1200.png)
 # Three important topics
 ## > CONDITIONS
 ## > LOOPS
